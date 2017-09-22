@@ -1,0 +1,22 @@
+{
+  "name": "cfcmechart",
+  "version": "1.0.0",
+  "description": "echart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ylws/echart.git"
+  },
+  "keywords": [
+    "echart"
+  ],
+  "author": "cfcm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ylws/echart/issues"
+  },
+  "homepage": "https://github.com/ylws/echart#readme"
+}
